@@ -2,9 +2,10 @@
   import svelteLogo from './assets/svelte.svg';
   import viteLogo from '/vite.svg';
   import Counter from './lib/Counter.svelte';
-  import { hello, sum } from '$flib/Library'; // '../src-fsharp/flib/Library';
+  import { print, sum, hello } from '$flib/Library'; // '../src-fsharp/flib/Library';
 
   console.log('Sum of 1 and 2:', sum(1, 2));
+  print('Hello from Svelte!');
 </script>
 
 <main>
