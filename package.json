@@ -7,7 +7,7 @@
     "dev": "vite",
     "dev-fable": "dotnet fable --cwd src-fsharp -o ../src/lib/fsharp --lang typescript --watch --run npm run dev",
     "fable": "dotnet fable --cwd src-fsharp -o ../src/lib/fsharp --lang typescript --verbose",
-    "build": "vite build",
+    "build": "npm run fable && vite build",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.app.json && tsc -p tsconfig.node.json"
   },
