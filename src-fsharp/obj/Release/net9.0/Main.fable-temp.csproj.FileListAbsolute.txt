@@ -1,0 +1,4 @@
+/Users/andrea/Desktop/sharp-svelte/src-fsharp/bin/Release/net9.0/Main.fable-temp.deps.json
+/Users/andrea/Desktop/sharp-svelte/src-fsharp/obj/Release/net9.0/Main.fable-temp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrea/Desktop/sharp-svelte/src-fsharp/obj/Release/net9.0/Main.fable-temp.AssemblyInfoInputs.cache
+/Users/andrea/Desktop/sharp-svelte/src-fsharp/obj/Release/net9.0/Main.fable-temp.AssemblyInfo.cs
